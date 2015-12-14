@@ -1,6 +1,6 @@
 #第四爱の艾斯爱慕
 ---
-[返回总群](https://github.com/xiaoyuzhizhi/CyanCity)
+[返回主页](https://github.com/CyanCityGroup/CyanCityGroup)
 ---
 
 1. [群规](./GroupRole.md)
